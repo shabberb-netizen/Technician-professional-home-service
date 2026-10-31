@@ -1,4 +1,3 @@
-In rules ko add karke CONTENT hum isi tarah tayar karte hain:
 Technician Professional Home Service - RULES.md
 1. Material Provision
 The technician is solely responsible for bringing all necessary materials and tools required to complete the service.
